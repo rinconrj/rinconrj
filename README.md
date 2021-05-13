@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next, React, GraphQL**
 
-- 👨‍💻 All of my projects are available at [over here!!!](over here!!!)
+- 👨‍💻 All of my projects are available at over here!!!
 
 - 💬 Ask me about **Node, backend, micro services, rabbitqm, mongoDb, socketIO**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ricardorincone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ricardorincone" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ricardorincone" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="ricardorincone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
